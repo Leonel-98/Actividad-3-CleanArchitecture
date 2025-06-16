@@ -1,0 +1,71 @@
+[33mcommit 9cfe6ab87ab498415bf1854d3cddeb81ea5c3a2c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mfeature-crud[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/feature-crud[m[33m, [m[1;32mnombre-de-la-rama[m[33m, [m[1;32mmain[m[33m, [m[1;32mleonel-rama[m[33m, [m[1;32mleonel[m[33m)[m
+Merge: c455c55 b868810
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sun May 25 00:25:01 2025 -0500
+
+    Merge pull request #4 from jarrietaunicolombo/4-Pruebas-Unitarias
+    
+    feat(UnitTest): algunas pruebas unitarias
+
+[33mcommit b868810d05da46a10027305f58e271826cc0ac7c[m
+Author: JOHN CARLOS ARRIETA ARRIETA <johncarlosarrietaarrietaa@gmail.com>
+Date:   Sun May 25 00:24:19 2025 -0500
+
+    feat(UnitTest): algunas pruebas unitarias
+
+[33mcommit c455c55d3d9cce37dd107ceae55e42dac921df92[m
+Merge: 7ee99ab ae9f8d2
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sun May 25 00:17:49 2025 -0500
+
+    Merge pull request #3 from jarrietaunicolombo/3-Capa-Infraestructura
+    
+    feat(Infrastructure): componentes de la capa de Infrastructura
+
+[33mcommit ae9f8d2624dbcce08fec95fcf6950ba3e6992014[m
+Author: JOHN CARLOS ARRIETA ARRIETA <johncarlosarrietaarrietaa@gmail.com>
+Date:   Sun May 25 00:14:52 2025 -0500
+
+    feat(Infrastructure): componentes de la capa de Infrastructura
+
+[33mcommit 7ee99ab5e42d701e62f14492855208139c88bad1[m
+Merge: 2d94696 c4d531b
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sun May 25 00:11:30 2025 -0500
+
+    Merge pull request #2 from jarrietaunicolombo/2-Capa-Aplicacion
+    
+    feat(Application): componentes de la capa de Aplicacion
+
+[33mcommit c4d531b497eaf6e28b08d1c88ceb5fe4f09759ea[m
+Author: JOHN CARLOS ARRIETA ARRIETA <johncarlosarrietaarrietaa@gmail.com>
+Date:   Sun May 25 00:10:33 2025 -0500
+
+    feat(Application): componentes de la capa de Aplicacion
+
+[33mcommit 2d9469662454e1323c3f52748365e61ca6c02e3f[m
+Merge: d43a71c 7d407e4
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sat May 24 23:58:28 2025 -0500
+
+    Merge pull request #1 from jarrietaunicolombo/1-Capa-Dominio
+    
+    feat: Creacion del proyecto Maven y componentes de la capa de Dominio
+
+[33mcommit 7d407e42c0eb3ac42d3140efdc22f77ec53b0cd0[m
+Author: JOHN CARLOS ARRIETA ARRIETA <johncarlosarrietaarrietaa@gmail.com>
+Date:   Sat May 24 23:51:00 2025 -0500
+
+    feat: Creacion del proyecto Maven y componentes de la capa de Dominio
+
+[33mcommit d43a71ce0bb97db07124a901e89c64d122ac8746[m
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sat May 24 23:19:44 2025 -0500
+
+    README.md
+
+[33mcommit 13a77011e0722146464ef9d573115a54840892c2[m
+Author: jarrietaunicolombo <159805327+jarrietaunicolombo@users.noreply.github.com>
+Date:   Sat May 24 23:18:40 2025 -0500
+
+    Initial commit
